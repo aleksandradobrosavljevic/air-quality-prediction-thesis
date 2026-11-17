@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+statsmodels
+xgboost
+tensorflow
+optuna
+matplotlib
+requests
+jupyter
