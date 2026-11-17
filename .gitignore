@@ -1,0 +1,9 @@
+master_long.csv
+meteo_spojeno.csv
+blh_dnevno.csv
+blh_*.csv
+finalni_skup_*.csv
+slike_za_rad/
+*.png
+.ipynb_checkpoints/
+__pycache__/
